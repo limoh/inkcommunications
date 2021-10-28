@@ -519,7 +519,7 @@ section {
   padding: 8px 20px;
   margin: 0;
   background: #e7f1fd;
-  color: #106eea;
+  color: #01017b;
   display: inline-block;
   text-transform: uppercase;
   border-radius: 50px;
@@ -530,7 +530,7 @@ section {
   font-weight: 700;
 }
 .section-title h3 span {
-  color: #106eea;
+  color: #01017b;
 }
 .section-title p {
   margin: 15px auto 0 auto;
@@ -614,7 +614,7 @@ section {
   z-index: -1;
 }
 .featured-services .icon-box:hover::before {
-  background: #106eea;
+  background: #01017b;
   top: 0;
   border-radius: 0px;
 }
@@ -624,7 +624,7 @@ section {
 .featured-services .icon i {
   font-size: 48px;
   line-height: 1;
-  color: #106eea;
+  color: #01017b;
   transition: all 0.3s ease-in-out;
 }
 .featured-services .title {
@@ -1308,7 +1308,7 @@ section {
 }
 .contact .info-box h3 {
   font-size: 20px;
-  color: #777777;
+  color: #01017b;
   font-weight: 700;
   margin: 10px 0;
 }
@@ -1377,7 +1377,7 @@ section {
   padding: 12px 15px;
 }
 .contact .php-email-form button[type=submit] {
-  background: #106eea;
+  background: #01017b;
   border: 0;
   padding: 10px 30px;
   color: #fff;
@@ -1385,7 +1385,7 @@ section {
   border-radius: 4px;
 }
 .contact .php-email-form button[type=submit]:hover {
-  background: #3b8af2;
+  background: #01017b;
 }
 @-webkit-keyframes animate-loading {
   0% {
